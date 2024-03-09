@@ -11,5 +11,3 @@ var name;
  name="Nandini";
 console.log(name)
 var sir_name;
-sir_name="Nimbalkar";
-console.log(sir_name);
