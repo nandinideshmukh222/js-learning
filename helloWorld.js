@@ -6,7 +6,7 @@ city="pune";
 console.log(city);
 var age;
 age=30;
-console.log(age);
+console.og(age);
 var name;
  name="Nandini";
 console.log(name)

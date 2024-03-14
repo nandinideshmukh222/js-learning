@@ -11,7 +11,7 @@ console.log("Type of BAnk Name is : ",result);
 
 console.log("======Step  02===========");
 var marks="90%";
-console.log("Marks : ",marks);
+console.log("Marks :",marks);
 var Marks=typeof marks;
 console.log("Type of Marks is : ",Marks);
 

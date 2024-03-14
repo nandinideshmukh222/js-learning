@@ -8,10 +8,6 @@ function bankDetails(bankName,accountNum,location,pincode){
     var result=pincode;
     console.log("Pincode:",result);
     console.log("****************************");
-
-   
-   
-
 }
     bankDetails("CITI Bank",34436657,"Pune",431202);
     bankDetails("Axis Bank",46536644,"Mumbai",441202);

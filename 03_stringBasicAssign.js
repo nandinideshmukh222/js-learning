@@ -15,6 +15,6 @@ console.log("========step 1================");
      console.log(`My Hobbies: ${hobby1} ${ hobby2} ${ hobby3}`);
          var totalChars=result.length
          console.log(`Total no. of Char: ${totalChars}`);
-
-     }
+         
+        }
         myHobbies();

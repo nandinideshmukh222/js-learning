@@ -1,10 +1,10 @@
 console.log("=======Step:01==========");
 function number(){
-  console.log("Inside Number function argument is");
+  console.log("My Personal Details:");
 }
   number();
   function name(){
-    console.log("Inside Name function argument is");
+    console.log("My Educational Details:");
   }
     name();
     
@@ -24,18 +24,31 @@ function number(){
  
 
      console.log("=======Step:03==========");
-            function swapValues(arg1,arg2){
+            function swapNumber(arg1,arg2){
             console.log("===Before Swap=== ");
-            console.log("Virat:",arg1, "Anushka:", arg2);
-            var temp=arg1;
-            arg1=arg2;
-            arg2=temp;
-            var result=
+            console.log("1000:",arg1, "2000:", arg2);
+            
+               var temp1=arg1;
+                    arg1=arg2;
+                     arg2=temp1;
             console.log("===After Swap=== ");
-            console.log("Virat:",arg1, "Anushka:", arg2);
+            console.log("1000:",arg1, "2000:", arg2);
            }
-                swapValues("Virat","Anushka");
-                swapValues(1000,2000);
+               swapNumber(1000,2000);
+                
+                
+                function swapValues(arg3,arg4){
+                  console.log("===Before Swap=== ");
+                  console.log("Virat:",arg3, "Anushka:", arg4);
+                  
+                  var temp2=arg3;
+                  arg3=arg4;
+                  arg4=temp2;
+                  console.log("===After Swap=== ");
+                  console.log("Virat:",arg3, "Anushka:", arg4);
+                 }
+                      swapValues("Virat","Anushka");
+      
 
    console.log("=======Step:04==========");
        

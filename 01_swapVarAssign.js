@@ -1,4 +1,5 @@
 console.log("=======Step:01==========");
+
 var name1 ="Sweety";
 var name2 ="Cutie";
 
