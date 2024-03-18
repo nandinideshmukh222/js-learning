@@ -2,9 +2,8 @@ console.log(`****Step : 1**********`);
 
 function squareOfWordLength(arg1) {
     var length=arg1.length;
-    var n1=length;
-    n2=2;
-    result=n1**n2;
+     n2=2;
+    result=length**n2;
     return result;
 }
 squareOfWordLength("JavaScript")
@@ -13,6 +12,8 @@ squareOfWordLength ("Google Chrome")
 console.log(`Length Square of "Google Chrome" is : ${result} `);
 squareOfWordLength("Developer Smart")
 console.log(`Length Square of "Developer Smart" is : ${result} `);
+
+
 
  
 console.log(`****Step : 2**********`);
