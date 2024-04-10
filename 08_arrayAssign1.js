@@ -1,5 +1,6 @@
 var fruits_seasonal=["Banana","orange","Apple","Mango","WaterMelon"];
-    console.log(`original Array:`);    console.log(fruits_seasonal);
+    console.log(`original Array:`);   
+     console.log(fruits_seasonal);
     console.log(`Step 1: First Element: "${fruits_seasonal[0]}" `);
         var arraylength=fruits_seasonal.length;
     console.log(`         Last Element: "${fruits_seasonal[arraylength-1]}" `);

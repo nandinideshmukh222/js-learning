@@ -9,7 +9,7 @@ for (let index = 0; index<word.length; index++) {
     }
 }
 
-console.log(`  Step 1 :Total no.of vowels in string: ${vowelsCount}`);
+console.log(`Step 1 :Total no.of vowels in string: ${vowelsCount}`);
 
 
 
@@ -19,7 +19,7 @@ for (let index = 0; index <=5; index++) {
    sum = sum + index * index * index;  
 }
 
-console.log(` Step 2: The sum of cube of numbers from 1 to 5 is: ${sum}`);
+console.log(`Step 2: The sum of cube of numbers from 1 to 5 is: ${sum}`);
 
 
 
@@ -32,7 +32,7 @@ function oddPositionedChars(arg) {
         }
     }
 }
-console.log("Step: 3     ");
+console.log("Step: 3 ******* ");
 
 console.log("Odd positioned chars of 1st String");
 oddPositionedChars("Hard work always pays back");
